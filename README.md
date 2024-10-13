@@ -1,6 +1,6 @@
-# Blog Title :link: https://T4rnRookie.github.io/Tarn 
-### :page_facing_up: [1](https://T4rnRookie.github.io/Tarn/tag.html) 
+# T4rn :link: https://T4rnRookie.github.io/Tarn 
+### :page_facing_up: [2](https://T4rnRookie.github.io/Tarn/tag.html) 
 ### :speech_balloon: 0 
-### :hibiscus: 7 
-### :alarm_clock: 2024-09-12 15:31:08 
+### :hibiscus: 41 
+### :alarm_clock: 2024-10-13 23:15:17 
 ### Powered by :heart: [Gmeek](https://github.com/Meekdai/Gmeek)
